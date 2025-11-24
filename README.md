@@ -7,7 +7,7 @@
 # Kurulum
 
 ```console
-git clone https://github.com/zyliexy/zyliexy
+git clone https://github.com/zyliexy/zyliexyy
 cd zyliexy
 pip3 install -r requirements.txt
 python3 zyliex.py
