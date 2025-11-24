@@ -1,16 +1,16 @@
-## Hi there 👋
+# Zyliexy 
 
-<!--
-**Zyliexy/zyliexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="499" height="377" alt="Ekran_Goruntusu_-_2025-11-24_17-41-15" src="https://github.com/user-attachments/assets/bb6de729-9588-42ee-b5b2-749aad724177" />
 
-Here are some ideas to get you started:
+<img width="802" height="345" alt="Ekran_Goruntusu_-_2025-11-24_17-42-00" src="https://github.com/user-attachments/assets/871aab8a-82de-413b-b0f5-2638c86ae94a" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Kurulum
+
+```console
+git clone https://github.com/zyliexy/zyliexy
+cd zyliexy
+pip3 install -r requirements.txt
+python3 zyliex.py
+```
+
+Termuxda, Windowsda ve Linux Terminalinde Çalışır.
